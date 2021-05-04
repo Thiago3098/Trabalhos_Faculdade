@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1568732178 source:c:\users\admin\desktop\trabalho faculdade\main.c
+	"mapa.h"
+
+1568728182 source:c:\users\admin\desktop\trabalho faculdade\mapa.c
+	"mapa.h"
+
+1568728182 c:\users\admin\desktop\trabalho faculdade\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1568755230 source:e:\trabalho faculdade\main.c
+	"mapa.h"
+
+1568750740 e:\trabalho faculdade\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1568754976 source:e:\trabalho faculdade\mapa.c
+	"mapa.h"
+
+1569683125 source:c:\users\admin\desktop\thiago alves de souza\trabalho faculdade\mapa.c
+	"mapa.h"
+
+1569680711 c:\users\admin\desktop\thiago alves de souza\trabalho faculdade\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1569804251 source:c:\users\admin\desktop\thiago alves de souza\trabalho faculdade\main.c
+	"mapa.h"
+
+1620098892 source:c:\users\thiago\desktop\thiago alves de souza\trabalho faculdade\main.c
+	<stdlib.h>
+	<stdio.h>
+	"mapa.h"
+
+1620099387 c:\users\thiago\desktop\thiago alves de souza\trabalho faculdade\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1620098765 source:c:\users\thiago\desktop\thiago alves de souza\trabalho faculdade\mapa.c
+	"mapa.h"
+
+1620103469 source:c:\users\thiago\desktop\trabalho faculdade\main.c
+	<stdlib.h>
+	<stdio.h>
+	"mapa.h"
+
+1620101810 c:\users\thiago\desktop\trabalho faculdade\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1620101849 source:c:\users\thiago\desktop\trabalho faculdade\mapa.c
+	"mapa.h"
+
